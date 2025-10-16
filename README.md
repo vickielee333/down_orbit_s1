@@ -26,7 +26,7 @@ It preserves the `Last-Modified` timestamps and metadata for reproducibility.
 ---
 
 ## Requirements
-- Python ≥ 3.8  
+- Python ≥ 3.10  
 - `requests` library (usually preinstalled with Anaconda)
 
 If missing:
